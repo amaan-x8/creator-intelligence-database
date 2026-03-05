@@ -63,11 +63,9 @@ Creator
 
 ## System Architecture
 
-External Creator Sources  
-→ Data ingestion  
-→ Automated tagging / enrichment  
-→ Structured database  
-→ Discovery dashboard for GTM teams
+![Creator Intelligence System Architecture](system-architecture.png)
+
+**Live app → [hyperlocal-stars-db.lovable.app](https://hyperlocal-stars-db.lovable.app)**
 
 ---
 
