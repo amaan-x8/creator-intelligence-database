@@ -4,11 +4,12 @@ An internal-style tool for discovering and managing hyperlocal creators across U
 
 **Live app → [hyperlocal-stars-db.lovable.app](https://hyperlocal-stars-db.lovable.app)**
 
+![Dashboard](https://raw.githubusercontent.com/amaan-x8/creator-intelligence-database/main/product-ui/dashboard.png)
 ---
 
 ## System Architecture
 
-![Hyperlocal Influencer DB — System Architecture](system-architecture.png)
+![System Architecture](https://raw.githubusercontent.com/amaan-x8/creator-intelligence-database/main/architecture/system-architecture.png)
 
 ---
 
